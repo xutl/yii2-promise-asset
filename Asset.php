@@ -13,7 +13,7 @@ class Asset extends AssetBundle
     /**
      * @inherit
      */
-    public $sourcePath = '@xutl/yii2-promise-asset/assets';
+    public $sourcePath = '@xutl/promise/assets';
 
     /**
      * @inherit
